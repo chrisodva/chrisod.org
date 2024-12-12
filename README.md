@@ -1,9 +1,10 @@
 <html> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <link href="https://odonnellweb.com/cod.css" rel="stylesheet" />  </head> <body> <div class="center"> 
   <h1>Sales Leadership for Web Development Agencies</h1> 
   
-<h2>You</h2> <p>You are a web design and development agency or related service delivering solutions on open source platforms such as WordPress, Drupal, or Joomla. You would like to grow sales, particularly in the public sector. You could be looking for a full time employee, or a fractional relationship.</p> 
+<h2>You</h2> <p>You need somebody to run sales and/or proposals. You've outgrown the "Founder does it all" stage but aren't quite to the sales department of 10 stage either. You need somebody that can do it all, even if the specific job function isn't going to require an all-in-one solution.</p> 
   
-<h2>Me</h2> <p>I'm a deeply experienced sales executive in the web design world. I sold my first six figure website project in 1996. Over the last ten years I've averaged about $1.5 million in annual sales, primarily using the Drupal CMS. There is a million dollar WordPress deal in there too. I've mostly worked as the primary sales executive for 20-40 person agencies that build on Drupal and WordPress. </p> 
+<h2>Me</h2> <p>For most of the previous 12 years, I’ve been the sales and proposal department for 20-50 person web consulting firms. I’ve been a full-stack sales resource responsible for lead generation, bid/no-bid decisions, win theme development, proposal development, proposal delivery, short list presentations, and ultimately closing the deal before handing it off to the production team. I’ve done this primarily for Drupal focused agencies, but the skills are transferrable to a variety of environments.
+ </p> 
 
 <h2>Match?</h2> <p>If you have read enough and want to chat, <a href="mailto:chris@chrisod.org?subject=website inquiry">send me an email</a> and I'll get back to you ASAP to schedule a time to talk.</p> 
 
