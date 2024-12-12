@@ -1,5 +1,5 @@
 <html> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <link href="https://odonnellweb.com/cod.css" rel="stylesheet" />  </head> <body> <div class="center"> 
-  <h1>Sales Leadership for Web Development Agencies</h1> 
+  <h1>Sales Leadership for Software / Software Consulting Companies</h1> 
   
 <h2>You</h2> <p>You need somebody to run sales and/or proposals. You've outgrown the "Founder does it all" stage but aren't quite to the sales department of 10 stage either. You need somebody that can do it all, even if the specific job function isn't going to require an all-in-one solution.</p> 
   
